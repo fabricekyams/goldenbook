@@ -11,5 +11,3 @@ class Conf {
 			)
 		);
 }
-
-Router::prefix('private', 'admin');
