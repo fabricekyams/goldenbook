@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>my Portfolio</title>
+	<title>Livre d'or</title>
 	<link href="<?=WEBROOT?>web/css/bootstrap.min.css" rel="stylesheet">
 	<link href="<?=WEBROOT?>web/css/goldenbook.css" rel="stylesheet">
 </head>
